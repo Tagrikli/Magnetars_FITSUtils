@@ -1,0 +1,52 @@
+{
+    "HDU0": {
+        "SIMPLE": true,
+        "BITPIX": -64,
+        "NAXIS": 0,
+        "EXTEND": true,
+        "DATE": "2022-08-17T21:21:36",
+        "METHOD": "Poisson",
+        "MODE": "Mode_1",
+        "FILENAME": "P1_100716_01_0.fit",
+        "TRIGTIME": 300935620.324,
+        "TRIGUTC": "2010-07-16T01:13:38.324",
+        "TRES": 0.008,
+        "MIN_CHAN": 1,
+        "MAX_CHAN": 3,
+        "SIG_PROB": 0.0001
+    },
+    "HDU1": {
+        "DURATION": 0.008,
+        "HR_25": 2.5,
+        "HR_50": 1.25,
+        "HR_75": 0.75,
+        "EVENT_GRADE": 0.0,
+        "SIGNIFICANCE_1": 0.003243024693801999,
+        "SIGNIFICANCE_2": 0.004875448066741228,
+        "SIGNIFICANCE_3": 0.0104298060759902,
+        "SIGNIFICANCE_4": 0.003160437336191535,
+        "SIGNIFICANCE_5": 5.3853964345762506e-05,
+        "SIGNIFICANCE_6": 0.007775736507028341,
+        "SIGNIFICANCE_7": 8.323986548930407e-06,
+        "SIGNIFICANCE_8": 8.932498894864693e-05,
+        "SIGNIFICANCE_9": 0.013470277190208435,
+        "SIGNIFICANCE_10": 0.07210755348205566,
+        "SIGNIFICANCE_11": 0.00962094683200121,
+        "SIGNIFICANCE_12": 5.167982817511074e-05,
+        "L_SHELL": 1.3982280492782593,
+        "LATITUDE": 16.8825740814209,
+        "LONGITUDE": -62.347110748291016,
+        "RATIO": 2.111111111111111
+    },
+    "HDU3": {
+        "SAA": 0.0,
+        "SGR": 7.865342742318618e-11,
+        "SGRB": 0.9999999999213466,
+        "LGRB": 1.4398916792679018e-31,
+        "SFLARE": 0.0,
+        "TGF": 0.0,
+        "TRANSNT": 0.0,
+        "DISTPAR": 0.0,
+        "LOCLPAR": 0.0
+    }
+}
