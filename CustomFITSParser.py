@@ -59,10 +59,10 @@ class FitsParser:
             value = HDU.data[header][0]
 
             if header == "SIGNIFICANCE":
-                normalized = Utils.NormalizeArray(header,value)
-
-                for sig_key, sig_value in normalized.items():
-                    result[sig_key] = float(sig_value)
+                #normalized = Utils.NormalizeArray(header,value)
+                result[header] = [float(sig_value) for sig_value in value]
+                #for sig_key, sig_value in normalized.items():
+                #    result[sig_key] = float(sig_value)
 
             else:
                 result[header] = float(value)
